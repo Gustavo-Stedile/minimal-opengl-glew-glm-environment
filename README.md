@@ -11,7 +11,7 @@ mingw-w64 # or any 64-bit GNU for windows
 ### `how to run:`
 
 ```bash
-git clone blablabla
+git clone https://github.com/Gustavo-Stedile/minimal-opengl-glew-glm-environment.git
 cd minimal-opengl-glew-glm-environment
 make run # or however your makefile binary is called
 ```
