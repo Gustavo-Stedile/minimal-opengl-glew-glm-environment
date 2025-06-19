@@ -1,4 +1,4 @@
-### `minimal OpenGL/GLEW/GLM environment`
+<h1>minimal OpenGL/GLEW/GLM environment</h1>
 
 A basic environment for modern OpenGL development with GLEW <br />
 
