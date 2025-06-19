@@ -2,10 +2,18 @@
 
 A basic environment for modern OpenGL development with GLEW on 64bits Windows<br />
 
-### `prerequisites`
+### `prerequisites:`
 
 ```bash
 mingw-w64 # or any 64-bit GNU for windows
+```
+
+### `how to run:`
+
+```bash
+git clone blablabla
+cd minimal-opengl-glew-glm-environment
+make run # or however your makefile binary is called
 ```
 
 ### `where to find those packages:`
