@@ -16,9 +16,6 @@ cd minimal-opengl-glew-glm-environment
 make run # or however your makefile binary is called
 ```
 
-### `cautions:`
-you need to be well assured that all those packages are compatible with 64-bit environments, as some libraries may crash your code if you messed up that
-
 ### `where to find those packages:`
 <ul>
   <li>GLM: https://github.com/g-truc/glm</li>
