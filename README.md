@@ -2,7 +2,7 @@
 
 A basic environment for modern OpenGL development with GLEW on 64-bit Windows<br />
 
-### `prerequisites:`
+### `requirements:`
 
 ```bash
 mingw-w64 # or any 64-bits GNU for windows
