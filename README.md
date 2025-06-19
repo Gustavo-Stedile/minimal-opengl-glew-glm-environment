@@ -1,3 +1,5 @@
+A basic environment for modern OpenGL development with GLEW <br />
+
 ### `prerequisites`
 
 ```bash
