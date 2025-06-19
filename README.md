@@ -1,6 +1,6 @@
 <h1>minimal OpenGL/GLEW/GLM environment</h1>
 
-A basic environment for modern OpenGL development with GLEW on 64bits Windows<br />
+A basic environment for modern OpenGL development with GLEW on 64-bit Windows<br />
 
 ### `prerequisites:`
 
@@ -15,6 +15,9 @@ git clone https://github.com/Gustavo-Stedile/minimal-opengl-glew-glm-environment
 cd minimal-opengl-glew-glm-environment
 make run # or however your makefile binary is called
 ```
+
+### `cautions:`
+you need to be well assured that all those packages are compatible with 64-bit environments, as some libraries may crash your code if you messed up that
 
 ### `where to find those packages:`
 <ul>
