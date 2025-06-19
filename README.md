@@ -1,3 +1,5 @@
+### `minimal OpenGL/GLEW/GLM environment`
+
 A basic environment for modern OpenGL development with GLEW <br />
 
 ### `prerequisites`
